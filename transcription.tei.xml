@@ -1,0 +1,337 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>周南先生醫談（九州大學醫學圖書館 シ-116） / Shūnan sensei idan [Medical Conversations of Master Shūnan]: Transcription Dataset</title>
+        <respStmt>
+          <resp>Transcription dataset editor</resp>
+          <persName ref="https://orcid.org/0009-0003-9738-6914">Chu, Chen-Yu</persName>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>0.1.0</edition>
+      </editionStmt>
+      <publicationStmt>
+        <p>2026-11-22. AI-assisted initial transcription with source references and marked uncertainties. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>九州大學醫學圖書館 和漢古醫書 シ-116（NIJL 100347929） <ref target="https://kokusho.nijl.ac.jp/biblio/100347929">Source catalogue</ref>
+        </p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="lzh">Literary Chinese</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1" type="scan" corresp="https://kokusho.nijl.ac.jp/biblio/100347929/canvas/1">
+        <div type="surface" n="001">
+          <note type="editorial">現代攝影識別頁；原書正文範圍外。</note>
+        </div>
+      </div>
+      <div n="2" type="scan" corresp="https://kokusho.nijl.ac.jp/biblio/100347929/canvas/2">
+        <div type="surface" n="002">
+          <ab type="title" n="002-P01" xml:id="u-002-P01">周南先生醫談</ab>
+          <ab type="shelf-label" n="002-P02" xml:id="u-002-P02">シ-116</ab>
+          <ab type="accession-tab" n="002-P03" xml:id="u-002-P03">和 4111 號</ab>
+          <note type="editorial">草寫題簽、右下索書標籤、上緣插籤及裝線。封紙有蟲孔、摺痕與褐色圖狀滲痕。圖面外尺度及色卡為攝製設備。</note>
+        </div>
+      </div>
+      <div n="3" type="scan" corresp="https://kokusho.nijl.ac.jp/biblio/100347929/canvas/3">
+        <div type="surface" n="003-R">
+          <ab type="library-label" n="003-R-P01" xml:id="u-003-R-P01">医学部 和 備／042112001754090／九州大学蔵書</ab>
+          <note type="editorial">前襯扉右，條碼及上緣插籤背面。蟲孔、貼紙與多處水痕。</note>
+        </div>
+        <div type="surface" n="003-L">
+          <ab type="title-head" n="003-L-C01" xml:id="u-003-L-C01">周南先生醫談　凡三十則</ab>
+          <ab type="main" n="003-L-C02" xml:id="u-003-L-C02">一　醫方、古必口訣、而無文字、且如易卜、自上古有之、</ab>
+          <ab type="main" n="003-L-C03" xml:id="u-003-L-C03">徒傳卦象、至周始繫文字、況方技乎、疾無常、藏府</ab>
+          <ab type="main" n="003-L-C04" xml:id="u-003-L-C04">不可窺測、更閱之多、自然有悟、故曰三折肱、而爲</ab>
+          <ab type="main" n="003-L-C05" xml:id="u-003-L-C05">良醫、其事微密、非言語文字之所能盡矣、故曰醫</ab>
+          <ab type="main" n="003-L-C06" xml:id="u-003-L-C06">意也、</ab>
+          <ab type="main" n="003-L-C07" xml:id="u-003-L-C07">一　藥物、有已病之性、猶嘉穀有養人之性、嗜可循用、</ab>
+          <ab type="main" n="003-L-C08" xml:id="u-003-L-C08">而理則不可得而知矣、意、昔古人始、用藥物、直知</ab>
+          <ab type="main" n="003-L-C09" xml:id="u-003-L-C09">此草愈此病、而不必□藥性、若今世數醫之用奇</ab>
+          <ab type="collection-stamp" n="003-L-P01" xml:id="u-003-L-P01">眼□科／和書 4111 號</ab>
+          <ab type="interlinear" n="003-L-P02" xml:id="u-003-L-P02">明藥性</ab>
+          <ab type="fold-margin-print" n="003-L-B01" xml:id="u-003-L-B01">□</ab>
+          <note type="editorial">首題一欄、正文八欄。左上朱框，末欄中段蟲孔割裂字；有旁補小字。界內九格，外欄版心字及魚尾。</note>
+        </div>
+      </div>
+      <div n="4" type="scan" corresp="https://kokusho.nijl.ac.jp/biblio/100347929/canvas/4">
+        <div type="surface" n="004-R">
+          <ab type="main" n="004-R-C01" xml:id="u-004-R-C01">藥、後人聚彙、而作此□書也、故方劑亦無定法、康</ab>
+          <ab type="main" n="004-R-C02" xml:id="u-004-R-C02">子饋藥、孔子不嘗、設如後世丸散之有主名、孔子</ab>
+          <ab type="main" n="004-R-C03" xml:id="u-004-R-C03">何不嘗之、其意可見、</ab>
+          <ab type="main" n="004-R-C04" xml:id="u-004-R-C04">一　越人之於長桑君、倉公之於公乘陽慶、獨受禁方、</ab>
+          <ab type="main" n="004-R-C05" xml:id="u-004-R-C05">古唯有方劑而已、無醫經論說可知矣、</ab>
+          <ab type="main" n="004-R-C06" xml:id="u-004-R-C06">一　天地一陽氣也、天地大德曰生、生々不已、天地之</ab>
+          <ab type="main" n="004-R-C07" xml:id="u-004-R-C07">性也、非陽不能生々、其陰陽則、動靜之機也、尺蠖</ab>
+          <ab type="main" n="004-R-C08" xml:id="u-004-R-C08">之屈求伸也、不屈不能信、故屈亦伸也、天地之性、</ab>
+          <ab type="main" n="004-R-C09" xml:id="u-004-R-C09">一於生也、其有陰也、猶赤蠖之屈、故陰亦陽也、萬</ab>
+          <ab type="marginal-note" n="004-R-P01" xml:id="u-004-R-P01">赤當作尺</ab>
+          <ab type="interlinear" n="004-R-P02" xml:id="u-004-R-P02">本草書</ab>
+          <ab type="fold-margin-print" n="004-R-B01" xml:id="u-004-R-B01">□</ab>
+          <note type="editorial">正文九欄。C01、C04、C08有蟲道近字；左眉小批，C01外側小字。C02及C04若干專名有中貫朱線。</note>
+        </div>
+        <div type="surface" n="004-L">
+          <ab type="main" n="004-L-C01" xml:id="u-004-L-C01">物生於天地、無不陽性者、陽氣行則安矣、陽性好</ab>
+          <ab type="main" n="004-L-C02" xml:id="u-004-L-C02">通暢、而惡鬱塞、而不行則災矣、百病所以作也、</ab>
+          <ab type="main" n="004-L-C03" xml:id="u-004-L-C03">一　風、寒、暑、濕、之自外、思、慮、飲、食、之自內、皆擁遏陽氣、</ab>
+          <ab type="main" n="004-L-C04" xml:id="u-004-L-C04">一擁遏則爲陰、已盛則戰於陽、戰則氣勵遏、而蓄、</ab>
+          <ab type="main" n="004-L-C05" xml:id="u-004-L-C05">戰而勵則生火、猶雷電之生火也、百病之所以生</ab>
+          <ab type="main" n="004-L-C06" xml:id="u-004-L-C06">也、能治火者、助陽而瀉陰、陽得力則邪火自消矣、</ab>
+          <ab type="main" n="004-L-C07" xml:id="u-004-L-C07">一　丹溪不知火本將陰、而執陽有餘陰不足之論、主</ab>
+          <ab type="main" n="004-L-C08" xml:id="u-004-L-C08">滋陰降火、自此之後、病者不勝於火、其不死者幸、</ab>
+          <ab type="main" n="004-L-C09" xml:id="u-004-L-C09">覓免耳、</ab>
+          <ab type="marginal-note" n="004-L-P01" xml:id="u-004-L-P01">謂按鬱塞下更脫鬱塞二字</ab>
+          <ab type="fold-margin-print" n="004-L-B01" xml:id="u-004-L-B01">□</ab>
+          <note type="editorial">正文九欄。右眉三列小批，C02有獨立朱圈及朱點，C07「丹溪」中貫朱線且溪位近蟲孔。</note>
+        </div>
+      </div>
+      <div n="5" type="scan" corresp="https://kokusho.nijl.ac.jp/biblio/100347929/canvas/5">
+        <div type="surface" n="005-R">
+          <ab type="main" n="005-R-C01" xml:id="u-005-R-C01">一　人參大溫、々之盛、則□也、故無病服人參者、壯實</ab>
+          <ab type="main" n="005-R-C02" xml:id="u-005-R-C02">者、不納熱毒、發爲劇症、狀如大傷寒、或如狂疫、熱</ab>
+          <ab type="main" n="005-R-C03" xml:id="u-005-R-C03">解復湯、猶可濟救、虛弱者、不能抗火、隨入而畜於</ab>
+          <ab type="main" n="005-R-C04" xml:id="u-005-R-C04">內、漸久蘊畜、遍於藏府達、於四體、醫見熱作、則以</ab>
+          <ab type="main" n="005-R-C05" xml:id="u-005-R-C05">爲虛熱、益地黃擁氣道、多、人參助火勢、不食不眠</ab>
+          <ab type="main" n="005-R-C06" xml:id="u-005-R-C06">不出數日、而殞滅悲夫、</ab>
+          <ab type="main" n="005-R-C07" xml:id="u-005-R-C07">一　仲景諸劑、主牡丹桂枝、二種非補益之性、桂枝開</ab>
+          <ab type="main" n="005-R-C08" xml:id="u-005-R-C08">表、牡丹解裡、致通暢之力也、知病生於陰也、</ab>
+          <ab type="main" n="005-R-C09" xml:id="u-005-R-C09">一　丹溪以清凉辛劑、蓋順土性也、中華之倍奉、養大</ab>
+          <ab type="interlinear" n="005-R-P01" xml:id="u-005-R-P01">即熱</ab>
+          <ab type="fold-margin-print" n="005-R-B01" xml:id="u-005-R-B01">□</ab>
+          <note type="editorial">正文九欄。C01中段長蟲孔覆字並有細補。紅線貫仲景、丹溪等，個別點痕沿用圖像原讀。</note>
+        </div>
+        <div type="surface" n="005-L">
+          <ab type="main" n="005-L-C01" xml:id="u-005-L-C01">過、輕暖裘褲、密閉於外、膏粱醇酎、充滿於內、陽氣</ab>
+          <ab type="main" n="005-L-C02" xml:id="u-005-L-C02">鬱沸、變現諸症、非清凉之劑瀉之、則不能治矣、北</ab>
+          <ab type="main" n="005-L-C03" xml:id="u-005-L-C03">方人民則不然、衣服雖煖、不至閉氣、魚鳥雖厚、不</ab>
+          <ab type="main" n="005-L-C04" xml:id="u-005-L-C04">如於牛羊雞豚之肉、不宜清凉、</ab>
+          <ab type="main" n="005-L-C05" xml:id="u-005-L-C05">一　丹溪以名醫、顯於當世、其治病也、必奏効者多矣、</ab>
+          <ab type="main" n="005-L-C06" xml:id="u-005-L-C06">而其論說不足師法、遺禍後世者何也、蓋病症藥</ab>
+          <ab type="main" n="005-L-C07" xml:id="u-005-L-C07">能、其意未所曉、適以奏効、至其論說、則誇理學之</ab>
+          <ab type="main" n="005-L-C08" xml:id="u-005-L-C08">稽、執堅白之說、不唯醫論、凡論事物、分陰陽、配五</ab>
+          <ab type="main" n="005-L-C09" xml:id="u-005-L-C09">行剖明若視火、密□□瑟、悅其如此、論辨不止、不</ab>
+          <ab type="marginal-note" n="005-L-P01" xml:id="u-005-L-P01">北當作此</ab>
+          <ab type="marginal-note" n="005-L-P02" xml:id="u-005-L-P02">按視疑觀誤</ab>
+          <ab type="interlinear" n="005-L-P03" xml:id="u-005-L-P03">如仙琴</ab>
+          <ab type="fold-margin-print" n="005-L-B01" xml:id="u-005-L-B01">□</ab>
+          <note type="editorial">正文九欄。左右眉各有小批，C09蟲道下有小字。左中與右邊框上有蟲孔。</note>
+        </div>
+      </div>
+      <div n="6" type="scan" corresp="https://kokusho.nijl.ac.jp/biblio/100347929/canvas/6">
+        <div type="surface" n="006-R">
+          <ab type="main" n="006-R-C01" xml:id="u-006-R-C01">覺不足開醫智、却使後學迷路已、</ab>
+          <ab type="main" n="006-R-C02" xml:id="u-006-R-C02">一　稟賦之有強弱、猶形體之有大小、鳧脚不可續、鶴</ab>
+          <ab type="main" n="006-R-C03" xml:id="u-006-R-C03">脛□□斷、受諸天也、不可如之何已、故善養虛弱</ab>
+          <ab type="main" n="006-R-C04" xml:id="u-006-R-C04">者、保嗇調理、不損天分耳、強貪補益者、不唯無益、</ab>
+          <ab type="main" n="006-R-C05" xml:id="u-006-R-C05">必致疾病、夭天年、譬若養菜蔬、初生脆弱、遽投濃</ab>
+          <ab type="main" n="006-R-C06" xml:id="u-006-R-C06">糞、不出數日、而枯敗矣、弱質不勝強補也、參附剽</ab>
+          <ab type="main" n="006-R-C07" xml:id="u-006-R-C07">悍、地黃粘滯、非弱質之所堪、胃壅而不欲食、大逼</ab>
+          <ab type="main" n="006-R-C08" xml:id="u-006-R-C08">而發熱、不敗而何待、</ab>
+          <ab type="main" n="006-R-C09" xml:id="u-006-R-C09">一　食餌、與人參、皆能助陽生氣、而餌食如大陽之照</ab>
+          <ab type="interlinear" n="006-R-P01" xml:id="u-006-R-P01">傳後</ab>
+          <ab type="interlinear" n="006-R-P02" xml:id="u-006-R-P02">壅</ab>
+          <ab type="fold-margin-print" n="006-R-B01" xml:id="u-006-R-B01">□</ab>
+          <note type="editorial">正文九欄。C01外側小補，C03–C05相接區有多處蟲損。C07「胃」下一字旁有疊補。</note>
+        </div>
+        <div type="surface" n="006-L">
+          <ab type="main" n="006-L-C01" xml:id="u-006-L-C01">臨、不可一日無焉、人參如火之薰蒸、可施於急而</ab>
+          <ab type="main" n="006-L-C02" xml:id="u-006-L-C02">不可恆炰也、若過度受其害、</ab>
+          <ab type="main" n="006-L-C03" xml:id="u-006-L-C03">一　天純陽、地純陰、人生中間、稟中和之氣、所謂保合</ab>
+          <ab type="main" n="006-L-C04" xml:id="u-006-L-C04">大和是也、人與天地殊也、不可論以陰陽、而無名</ab>
+          <ab type="main" n="006-L-C05" xml:id="u-006-L-C05">則不行、故姑假陰陽、以標其名已、其猶酒之於水</ab>
+          <ab type="main" n="006-L-C06" xml:id="u-006-L-C06">穀、酒者水穀所成、而豈可以水穀論哉、</ab>
+          <ab type="main" n="006-L-C07" xml:id="u-006-L-C07">一　凡物得養、而長、人身、獨不然乎、菜蔬可養、而長、脾</ab>
+          <ab type="main" n="006-L-C08" xml:id="u-006-L-C08">胃何不可養乎、可化弱而爲強矣、曰否、待養而長</ab>
+          <ab type="main" n="006-L-C09" xml:id="u-006-L-C09">者、滿其天分耳、非增天分之外、且養蔬菜者、肥其</ab>
+          <ab type="interlinear" n="006-L-P01" xml:id="u-006-L-P01">天分</ab>
+          <ab type="fold-margin-print" n="006-L-B01" xml:id="u-006-L-B01">□</ab>
+          <note type="editorial">正文九欄。C05–C07上中部蟲損，C09小字天分和正文中段併見。</note>
+        </div>
+      </div>
+      <div n="7" type="scan" corresp="https://kokusho.nijl.ac.jp/biblio/100347929/canvas/7">
+        <div type="surface" n="007-R">
+          <ab type="main" n="007-R-C01" xml:id="u-007-R-C01">土培其根、所養在於外也、人之服藥物、受諸脾胃、</ab>
+          <ab type="main" n="007-R-C02" xml:id="u-007-R-C02">無益則有害、</ab>
+          <ab type="main" n="007-R-C03" xml:id="u-007-R-C03">一　素問未必可信也、固矣、蓋五行興於戰国術士、而</ab>
+          <ab type="main" n="007-R-C04" xml:id="u-007-R-C04">盛於秦漢、其書或成於秦漢之後也、然人不能無</ab>
+          <ab type="main" n="007-R-C05" xml:id="u-007-R-C05">疾病、則醫方自上古而有焉、嗟其方以人而傳、素</ab>
+          <ab type="main" n="007-R-C06" xml:id="u-007-R-C06">必有成書、後人載策、乃欲重借神聖、託爲黄帝岐</ab>
+          <ab type="main" n="007-R-C07" xml:id="u-007-R-C07">伯之言婉嫣之、求邊隣不鮮、援黄帝先厝、以見其</ab>
+          <ab type="main" n="007-R-C08" xml:id="u-007-R-C08">爲杜撰也、藏府經脈、諸所論說、必有出古人、師承</ab>
+          <ab type="main" n="007-R-C09" xml:id="u-007-R-C09">者學者、須披沙得金、買珠置匱、難經而未可必爲</ab>
+          <ab type="fold-margin-print" n="007-R-B01" xml:id="u-007-R-B01">□</ab>
+          <note type="editorial">正文九欄。C03–C05上半、C09中段及下框蛀損；素問、難經有朱線。多處紅點露一端，位置有疑。</note>
+        </div>
+        <div type="surface" n="007-L">
+          <ab type="main" n="007-L-C01" xml:id="u-007-L-C01">出秦越人</ab>
+          <ab type="main" n="007-L-C02" xml:id="u-007-L-C02">一　班史曰、有病不服藥得中醫也、蓋法誤致病邪氣</ab>
+          <ab type="main" n="007-L-C03" xml:id="u-007-L-C03">侵正久之而夫定矣、正氣復、而邪衰病、自愈、中醫</ab>
+          <ab type="main" n="007-L-C04" xml:id="u-007-L-C04">之功也、妄服藥物、毒氣內攻震、盪腸胃、動氣擾血、</ab>
+          <ab type="main" n="007-L-C05" xml:id="u-007-L-C05">無患致病、至轉展、而變難症、良醫不能施功矣、然</ab>
+          <ab type="main" n="007-L-C06" xml:id="u-007-L-C06">班史所言論輕症耳、若夫重病不治之於初發、而</ab>
+          <ab type="main" n="007-L-C07" xml:id="u-007-L-C07">其久深則不可治、難爲一切之說、</ab>
+          <ab type="main" n="007-L-C08" xml:id="u-007-L-C08">一　輕症經日自愈、不必須醫藥、然、庸醫疑懼依違補</ab>
+          <ab type="main" n="007-L-C09" xml:id="u-007-L-C09">瀉、數十味而不止、藥力微弱、不能已病、亦不甚害、</ab>
+          <ab type="marginal-note" n="007-L-P01" xml:id="u-007-L-P01">按久之而夫定矣之句必有誤</ab>
+          <ab type="fold-margin-print" n="007-L-B01" xml:id="u-007-L-B01">□</ab>
+          <note type="editorial">正文九欄。上眉居中四列小批，C06、C07上半失墨，班史及秦越人等名字有朱線。</note>
+        </div>
+      </div>
+      <div n="8" type="scan" corresp="https://kokusho.nijl.ac.jp/biblio/100347929/canvas/8">
+        <div type="surface" n="008-R">
+          <ab type="main" n="008-R-C01" xml:id="u-008-R-C01">劑不與病相干醫與病家、不考其自愈、却歸功於</ab>
+          <ab type="main" n="008-R-C02" xml:id="u-008-R-C02">藥、可笑、</ab>
+          <ab type="main" n="008-R-C03" xml:id="u-008-R-C03">一　方病勢已熾盛、雖方得的當、不能奏効、蓋水車火、</ab>
+          <ab type="main" n="008-R-C04" xml:id="u-008-R-C04">勢不相敵也、醫無的見、輕更配劑、動致方症之齟</ab>
+          <ab type="main" n="008-R-C05" xml:id="u-008-R-C05">齬、應象論曰、病之始起也、可刺而已、其盛可待衰</ab>
+          <ab type="main" n="008-R-C06" xml:id="u-008-R-C06">而已、變氣論曰、病形已成云云、麤工兀々以爲攻、</ab>
+          <ab type="main" n="008-R-C07" xml:id="u-008-R-C07">故病未已新病復起、</ab>
+          <ab type="main" n="008-R-C08" xml:id="u-008-R-C08">一　長生之說、本不與醫相關也、醫者聚毒藥而愈病、</ab>
+          <ab type="main" n="008-R-C09" xml:id="u-008-R-C09">其職近惡掌之屬、周礼所載可觀、經傳諸子間有</ab>
+          <ab type="fold-margin-print" n="008-R-B01" xml:id="u-008-R-B01">□</ab>
+          <note type="editorial">正文九欄。C04–C06多蟲道，左界框中段破損，應象論、變氣論等有朱線。</note>
+        </div>
+        <div type="surface" n="008-L">
+          <ab type="main" n="008-L-C01" xml:id="u-008-L-C01">言及醫者、未聞有言道者、編素問者、欲窮其本、妄</ab>
+          <ab type="main" n="008-L-C02" xml:id="u-008-L-C02">引道家之虚換入醫、葛稚川陶隱居其人元喜養</ab>
+          <ab type="main" n="008-L-C03" xml:id="u-008-L-C03">生、好隆長生之說、養生家本於老莊、老莊殊根、一</ab>
+          <ab type="main" n="008-L-C04" xml:id="u-008-L-C04">般道理、欲托此而保寡命於亂世、山林隱逸之適</ab>
+          <ab type="main" n="008-L-C05" xml:id="u-008-L-C05">也、非所以施人間也、雞鳴而起、孜孜爲善、在朝廷</ab>
+          <ab type="main" n="008-L-C06" xml:id="u-008-L-C06">整日不□豁矣、何暇得悟憺虛寞、吐嘘呼吸形、雖然</ab>
+          <ab type="main" n="008-L-C07" xml:id="u-008-L-C07">多病者、得其說、屏𢮥、莫求無禆益、不可以一槩排</ab>
+          <ab type="main" n="008-L-C08" xml:id="u-008-L-C08">斥、</ab>
+          <ab type="main" n="008-L-C09" xml:id="u-008-L-C09">一　太史公叙方技、而無所得焉、僅引扁鵲倉公、倉公</ab>
+          <ab type="marginal-note-red" n="008-L-P01" xml:id="u-008-L-P01">恐訛誤</ab>
+          <ab type="interlinear" n="008-L-P02" xml:id="u-008-L-P02">□</ab>
+          <ab type="fold-margin-print" n="008-L-B01" xml:id="u-008-L-B01">□</ab>
+          <note type="editorial">正文九欄。右眉朱批，C06蟲道侵字，目錄引用及人名有朱線。C08只寫一字；C09新節。</note>
+        </div>
+      </div>
+      <div n="9" type="scan" corresp="https://kokusho.nijl.ac.jp/biblio/100347929/canvas/9">
+        <div type="surface" n="009-R">
+          <ab type="main" n="009-R-C01" xml:id="u-009-R-C01">太常時人得、其語、間、列叙之、至扁鵲、男既談忽、若</ab>
+          <ab type="main" n="009-R-C02" xml:id="u-009-R-C02">有若無、若虢太子事、固失其實、</ab>
+          <ab type="main" n="009-R-C03" xml:id="u-009-R-C03">一　素問曰、夫聖人之治病、循法守度、援物比類、化之</ab>
+          <ab type="main" n="009-R-C04" xml:id="u-009-R-C04">冥々、循上及下、何必守經、按易諸醫豈圭繩莫尚</ab>
+          <ab type="main" n="009-R-C05" xml:id="u-009-R-C05">焉、法度者、先醫所傳、素難以降、諸醫書是也、援據</ab>
+          <ab type="main" n="009-R-C06" xml:id="u-009-R-C06">者、援據天地陰陽五行、諸物以證其理、求知藏者、</ab>
+          <ab type="main" n="009-R-C07" xml:id="u-009-R-C07">經絡之所循、比類者、疾病之發、無常狀矣、博論諸</ab>
+          <ab type="main" n="009-R-C08" xml:id="u-009-R-C08">症、明引比類、以求知治療之所施也、化之冥々者、</ab>
+          <ab type="main" n="009-R-C09" xml:id="u-009-R-C09">所謂醫者意也、非言詮之冥物常、若不達於變、臨</ab>
+          <ab type="marginal-note" n="009-R-P01" xml:id="u-009-R-P01">按間疑問之誤</ab>
+          <ab type="interlinear" n="009-R-P02" xml:id="u-009-R-P02">從容篇</ab>
+          <ab type="fold-margin-print" n="009-R-B01" xml:id="u-009-R-B01">□</ab>
+          <note type="editorial">正文九欄。右上眉小批、C03上端引題小字。C04中段、C06下部、C09中段蟲損，書名人名有朱線。</note>
+        </div>
+        <div type="surface" n="009-L">
+          <ab type="main" n="009-L-C01" xml:id="u-009-L-C01">機應變存、乎其人也、循上及下者、學古而御今也、</ab>
+          <ab type="main" n="009-L-C02" xml:id="u-009-L-C02">震專尚循、而縛於珪、泥古尚化、而傷於簡、所缺乎</ab>
+          <ab type="main" n="009-L-C03" xml:id="u-009-L-C03">固其失必同焉、</ab>
+          <ab type="main" n="009-L-C04" xml:id="u-009-L-C04">一　陰陽應象論曰、壯火散氣、小火生氣、是張景岳補、</ab>
+          <ab type="main" n="009-L-C05" xml:id="u-009-L-C05">而用參附之要訣也、</ab>
+          <ab type="main" n="009-L-C06" xml:id="u-009-L-C06">一　又曰陰陽者天地之道、萬物之綱紀、治病必求於</ab>
+          <ab type="main" n="009-L-C07" xml:id="u-009-L-C07">本、梅云、求於本者、施諸陰陽、而察其象、以達施治</ab>
+          <ab type="main" n="009-L-C08" xml:id="u-009-L-C08">之道、所以名應象論也、下文云云、必配五行、後人</ab>
+          <ab type="main" n="009-L-C09" xml:id="u-009-L-C09">之畫蛇足也、失古醫本旨者也、</ab>
+          <ab type="fold-margin-print" n="009-L-B01" xml:id="u-009-L-B01">□</ab>
+          <note type="editorial">正文九欄。中間上下蟲道貫欄。引文篇名「陰陽應象論」、C08「應象論」有朱線。</note>
+        </div>
+      </div>
+      <div n="10" type="scan" corresp="https://kokusho.nijl.ac.jp/biblio/100347929/canvas/10">
+        <div type="surface" n="010-R">
+          <ab type="main" n="010-R-C01" xml:id="u-010-R-C01">一　黄帝曰、嗚呼遠哉、說閔々若視深淵、若迎浮雲、視</ab>
+          <ab type="main" n="010-R-C02" xml:id="u-010-R-C02">深淵尚可測、迎浮雲莫知其際、疏五過論篇　又曰、吾問</ab>
+          <ab type="main" n="010-R-C03" xml:id="u-010-R-C03">窈冥、子言上下篇、脈以對何乎、從容篇　曰醫者意也、</ab>
+          <ab type="main" n="010-R-C04" xml:id="u-010-R-C04">非言詮之所宣者、即所謂窈冥也、三折肱爲良醫、</ab>
+          <ab type="main" n="010-R-C05" xml:id="u-010-R-C05">蓋博學醫說、而綜耿詮編究藥詮而悉奇方、而□</ab>
+          <ab type="main" n="010-R-C06" xml:id="u-010-R-C06">病者也、多更事者也、久而後深識病之變、譬暗裏</ab>
+          <ab type="main" n="010-R-C07" xml:id="u-010-R-C07">物之能、心應而手隨、窈々冥々、父不能諸乎、子師</ab>
+          <ab type="main" n="010-R-C08" xml:id="u-010-R-C08">不能教於弟子、非言詮之所宣也、</ab>
+          <ab type="main" n="010-R-C09" xml:id="u-010-R-C09">一　天地者一氣已、動靜者其機也、故地者天之液也、</ab>
+          <ab type="marginal-note" n="010-R-P01" xml:id="u-010-R-P01">按耿疑□</ab>
+          <ab type="fold-margin-print" n="010-R-B01" xml:id="u-010-R-B01">□</ab>
+          <note type="editorial">正文九欄。上中央眉批，C02及03欄下雙列小注列標引。C04上段、C05–C06下框蟲損，多朱點。</note>
+        </div>
+        <div type="surface" n="010-L">
+          <ab type="main" n="010-L-C01" xml:id="u-010-L-C01">陰者乃之露也、人身陰是陽氣、故氣盡則、四肢百</ab>
+          <ab type="main" n="010-L-C02" xml:id="u-010-L-C02">骸同于土塊、</ab>
+          <ab type="main" n="010-L-C03" xml:id="u-010-L-C03">一　藏府之不可見也、猶造化之不可窺矣、且如五藏</ab>
+          <ab type="main" n="010-L-C04" xml:id="u-010-L-C04">配五行、每論心肺、若中黄以徵脾土筋青以肝木</ab>
+          <ab type="main" n="010-L-C05" xml:id="u-010-L-C05">較爲近焉、然獸中黑禽矢白魚目方各有専、凡羽</ab>
+          <ab type="main" n="010-L-C06" xml:id="u-010-L-C06">毛鱗介之文彩色澤、嘗皆究其理、而得其說乎、大</ab>
+          <ab type="main" n="010-L-C07" xml:id="u-010-L-C07">氏造化之妙、非人智之所及、猶宇宙之不可測識、</ab>
+          <ab type="main" n="010-L-C08" xml:id="u-010-L-C08">古人大槩立數目、以爲標淺而已、得筌爲魚者、安</ab>
+          <ab type="main" n="010-L-C09" xml:id="u-010-L-C09">識其真哉、</ab>
+          <ab type="fold-margin-print" n="010-L-B01" xml:id="u-010-L-B01">□</ab>
+          <note type="editorial">正文九欄。右一、中央C04及C06紙洞割裂字。格線連續可定位，左端版心字外露。</note>
+        </div>
+      </div>
+      <div n="11" type="scan" corresp="https://kokusho.nijl.ac.jp/biblio/100347929/canvas/11">
+        <div type="surface" n="011-R">
+          <ab type="main" n="011-R-C01" xml:id="u-011-R-C01">一　人身陽和溫暖、是其常也、爲陰濕所迫、則藴爲鬱</ab>
+          <ab type="main" n="011-R-C02" xml:id="u-011-R-C02">火、發爲熱腫、諸症之變、是陰盛勝於陽也、丹溪畏</ab>
+          <ab type="main" n="011-R-C03" xml:id="u-011-R-C03">火、輒創陽有餘陰不足之説、専主滋陰、不去陰必</ab>
+          <ab type="main" n="011-R-C04" xml:id="u-011-R-C04">陽消、何以保病軀耶、</ab>
+          <ab type="main" n="011-R-C05" xml:id="u-011-R-C05">一　蓋聞上古之世、方不如醫、中古之世、醫不如方、</ab>
+          <ab type="main" n="011-R-C07" xml:id="u-011-R-C07">一　世降而方愈凌雜、莫不各據一家言、彼此互相是</ab>
+          <ab type="main" n="011-R-C08" xml:id="u-011-R-C08">非、間有二三駁補、惟受父師傳之子弟、絶不輕</ab>
+          <ab type="main" n="011-R-C09" xml:id="u-011-R-C09">以示人、而其竊行於世者、率皆依樣葫蘆時或改</ab>
+          <ab type="marginal-note" n="011-R-P01" xml:id="u-011-R-P01">按不知陰則陽消之句必有誤</ab>
+          <ab type="source-citation" n="011-R-P02" xml:id="u-011-R-P02">藝外程衍道序</ab>
+          <ab type="fold-margin-print" n="011-R-B01" xml:id="u-011-R-B01">□</ab>
+          <note type="editorial">正文八欄另有一完整窄寫引注欄C06。右上眉批，C02–C04中部與C08上半有蟲道。</note>
+        </div>
+        <div type="surface" n="011-L">
+          <ab type="main" n="011-L-C01" xml:id="u-011-L-C01">頭換面以博名高則已焉、</ab>
+          <ab type="main" n="011-L-C02" xml:id="u-011-L-C02">一　南史傳殷令□□於淳當問訪王僧孺以砭石僧</ab>
+          <ab type="main" n="011-L-C03" xml:id="u-011-L-C03">孺曰、古人當以石爲鍼、必不用鐵、山海經東山高</ab>
+          <ab type="main" n="011-L-C04" xml:id="u-011-L-C04">氏之山多針石、郭璞曰、爲砭石春秋傳美疾不如</ab>
+          <ab type="main" n="011-L-C05" xml:id="u-011-L-C05">藥石、服虔注石、砭石也、季世無佳石、故以鐵代之、</ab>
+          <ab type="main" n="011-L-C07" xml:id="u-011-L-C07">一　按史遷叙方技、不及內經、可考漢每此至、班史藝</ab>
+          <ab type="main" n="011-L-C08" xml:id="u-011-L-C08">文志始列載籍、則是並墜時始得見焉、今所傳內</ab>
+          <ab type="main" n="011-L-C09" xml:id="u-011-L-C09">經其文意早劣、必無兩漢氣象、或疑班史所載古</ab>
+          <ab type="marginal-note" n="011-L-P01" xml:id="u-011-L-P01">按兩疑西</ab>
+          <ab type="interlinear" n="011-L-P02" xml:id="u-011-L-P02">同于前</ab>
+          <ab type="source-citation" n="011-L-P03" xml:id="u-011-L-P03">正字通砭石注</ab>
+          <ab type="fold-margin-print" n="011-L-B01" xml:id="u-011-L-B01">王家藏</ab>
+          <note type="editorial">正文八欄另有一窄寫引注欄C06。首欄後小字、左眉批，C02中上與C06文字附近貫穿孔，名字及書名有朱線。</note>
+        </div>
+      </div>
+      <div n="12" type="scan" corresp="https://kokusho.nijl.ac.jp/biblio/100347929/canvas/12">
+        <div type="surface" n="012-R">
+          <ab type="main" n="012-R-C01" xml:id="u-012-R-C01">書先也、今所傳者、後人因名擬偽焉、或疑後人改</ab>
+          <ab type="main" n="012-R-C02" xml:id="u-012-R-C02">定古書、混淆私說、遂失古文耶、</ab>
+          <ab type="fold-margin-print" n="012-R-B01" xml:id="u-012-R-B01">王家藏</ab>
+          <note type="editorial">右兩欄有正文，C02的耶後見朱點，C03–C09留空，有零散紙痕和淡透背。</note>
+        </div>
+        <div type="surface" n="012-L">
+          <ab type="fold-margin-print" n="012-L-B01" xml:id="u-012-L-B01">□</ab>
+          <note type="editorial">九格、印刷版心邊字及紙痕可見；無正文筆跡。</note>
+        </div>
+      </div>
+      <div n="13" type="scan" corresp="https://kokusho.nijl.ac.jp/biblio/100347929/canvas/13">
+        <div type="surface" n="013-R">
+          <ab type="fold-margin-print" n="013-R-B01" xml:id="u-013-R-B01">□</ab>
+          <note type="editorial">九格，版心字部分被其他葉壓露。蟲孔與欄線中斷，無正文筆跡。</note>
+        </div>
+        <div type="surface" n="013-L">
+          <note type="editorial">無格前後襯式紙面，左緣多紙缺，左下褐漬，未見可辨書寫。</note>
+        </div>
+      </div>
+      <div n="14" type="scan" corresp="https://kokusho.nijl.ac.jp/biblio/100347929/canvas/14">
+        <div type="surface" n="014">
+          <ab type="cover-mark" n="014-P01" xml:id="u-014-P01">□□十□□</ab>
+          <note type="editorial">封底下緣有斜橫溢墨題記，旋轉裁片檢視仍有疑讀。左側裝線、所見紙蛀及褐色圓狀漬。</note>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
