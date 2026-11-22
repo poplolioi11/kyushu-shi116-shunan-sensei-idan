@@ -1,0 +1,680 @@
+{
+  "changes": [
+    {
+      "unit": "004-L-C01",
+      "frame": 4,
+      "side": "004-L",
+      "offset_start": 16,
+      "offset_end": 17,
+      "before": "安",
+      "after": "反",
+      "image_sha256": "d39ff11a432f893233bcde971d26776e7738093a5588703e97e6f409575a3721",
+      "image_bbox": [
+        1965,
+        665,
+        2115,
+        2560
+      ],
+      "context": [
+        "陽氣行則安",
+        "陽氣往則反"
+      ],
+      "reason": "欄下半「行」位左有彳、右部上有點及主形。「安」位見厂內交筆及下分捺，與次欄反形可互比。"
+    },
+    {
+      "unit": "004-L-C01",
+      "frame": 4,
+      "side": "004-L",
+      "offset_start": 14,
+      "offset_end": 15,
+      "before": "行",
+      "after": "往",
+      "image_sha256": "d39ff11a432f893233bcde971d26776e7738093a5588703e97e6f409575a3721",
+      "image_bbox": [
+        1965,
+        665,
+        2115,
+        2560
+      ],
+      "context": [
+        "陽氣行則安",
+        "陽氣往則反"
+      ],
+      "reason": "欄下半「行」位左有彳、右部上有點及主形。「安」位見厂內交筆及下分捺，與次欄反形可互比。"
+    },
+    {
+      "unit": "004-L-C02",
+      "frame": 4,
+      "side": "004-L",
+      "offset_start": 12,
+      "offset_end": 13,
+      "before": "災",
+      "after": "反",
+      "image_sha256": "d39ff11a432f893233bcde971d26776e7738093a5588703e97e6f409575a3721",
+      "image_bbox": [
+        1818,
+        665,
+        1968,
+        2560
+      ],
+      "context": [
+        "則災矣",
+        "則反矣"
+      ],
+      "reason": "「則」後一字左上撇向下，中心見又形；欄內未見巛或火的四點。與右欄同形。"
+    },
+    {
+      "unit": "005-R-C07",
+      "frame": 5,
+      "side": "005-R",
+      "offset_start": 23,
+      "offset_end": 24,
+      "before": "開",
+      "after": "用",
+      "image_sha256": "15c1c23eb6343a225b5506e9ed826c8d585e94c9dadd72a306f9742ff2987cfa",
+      "image_bbox": [
+        2665,
+        665,
+        2815,
+        2560
+      ],
+      "context": [
+        "桂枝開",
+        "桂枝用"
+      ],
+      "reason": "欄末近底框，字形有兩側直筆及內交豎，無門框。"
+    },
+    {
+      "unit": "005-L-C08",
+      "frame": 5,
+      "side": "005-L",
+      "offset_start": 0,
+      "offset_end": 1,
+      "before": "稽",
+      "after": "精",
+      "image_sha256": "15c1c23eb6343a225b5506e9ed826c8d585e94c9dadd72a306f9742ff2987cfa",
+      "image_bbox": [
+        936,
+        665,
+        1086,
+        2560
+      ],
+      "context": [
+        "稽執",
+        "精執"
+      ],
+      "reason": "欄首左部米形，右部青形縱列，與下一字執之間留有字距。"
+    },
+    {
+      "unit": "005-L-C09",
+      "frame": 5,
+      "side": "005-L",
+      "offset_start": 1,
+      "offset_end": 2,
+      "before": "剖",
+      "after": "則",
+      "image_sha256": "15c1c23eb6343a225b5506e9ed826c8d585e94c9dadd72a306f9742ff2987cfa",
+      "image_bbox": [
+        789,
+        665,
+        939,
+        2560
+      ],
+      "context": [
+        "行剖明",
+        "行則明"
+      ],
+      "reason": "「行」下字右側獨立刂，左半殘筆為貝形的連寫，無咅的上蓋。"
+    },
+    {
+      "unit": "006-R-C01",
+      "frame": 6,
+      "side": "006-R",
+      "offset_start": 12,
+      "offset_end": 13,
+      "before": "路",
+      "after": "眩",
+      "image_sha256": "5c783de765cce156be291db660ab9f477a3b05874beed0456ef95d285e11491c",
+      "image_bbox": [
+        3550,
+        665,
+        3700,
+        2560
+      ],
+      "context": [
+        "迷路已",
+        "迷眩已"
+      ],
+      "reason": "末三字中第二字左有目框，右部軸筆彎結，與足各形可區分。"
+    },
+    {
+      "unit": "006-R-C07",
+      "frame": 6,
+      "side": "006-R",
+      "offset_start": 22,
+      "offset_end": 23,
+      "before": "逼",
+      "after": "蘊",
+      "image_sha256": "5c783de765cce156be291db660ab9f477a3b05874beed0456ef95d285e11491c",
+      "image_bbox": [
+        2665,
+        665,
+        2815,
+        2560
+      ],
+      "context": [
+        "大逼",
+        "大蘊"
+      ],
+      "reason": "欄末大字下有皿形橫腳，字頂有艸形，外無辶。"
+    },
+    {
+      "unit": "006-R-C07",
+      "frame": 6,
+      "side": "006-R",
+      "offset_start": 15,
+      "offset_end": 16,
+      "before": "壅",
+      "after": "擁",
+      "image_sha256": "5c783de765cce156be291db660ab9f477a3b05874beed0456ef95d285e11491c",
+      "image_bbox": [
+        2665,
+        665,
+        2815,
+        2560
+      ],
+      "context": [
+        "胃壅",
+        "胃擁"
+      ],
+      "reason": "胃下大字左見提手旁，同行右緊鄰較小的「壅」可獨立辨識。"
+    },
+    {
+      "unit": "008-R-C08",
+      "frame": 8,
+      "side": "008-R",
+      "offset_start": 2,
+      "offset_end": 3,
+      "before": "長",
+      "after": "養",
+      "image_sha256": "ab89a73dea7b56a818de3f2571f82905458f0ace0cef1f68a46ac950ba4f610d",
+      "image_bbox": [
+        2499,
+        665,
+        2649,
+        2560
+      ],
+      "context": [
+        "長生之",
+        "養生之"
+      ],
+      "reason": "一字標記下見羊形的短橫和下部食形連筆；同圖左葉「養生家」可比。"
+    },
+    {
+      "unit": "008-L-C01",
+      "frame": 8,
+      "side": "008-L",
+      "offset_start": 22,
+      "offset_end": 23,
+      "before": "妄",
+      "after": "如",
+      "image_sha256": "ab89a73dea7b56a818de3f2571f82905458f0ace0cef1f68a46ac950ba4f610d",
+      "image_bbox": [
+        1965,
+        665,
+        2115,
+        2560
+      ],
+      "context": [
+        "欲窮其本妄",
+        "欲學其本如"
+      ],
+      "reason": "欄末「窮」位是上收的臼形與下方子形，「如」左女右口。"
+    },
+    {
+      "unit": "008-L-C01",
+      "frame": 8,
+      "side": "008-L",
+      "offset_start": 18,
+      "offset_end": 19,
+      "before": "窮",
+      "after": "學",
+      "image_sha256": "ab89a73dea7b56a818de3f2571f82905458f0ace0cef1f68a46ac950ba4f610d",
+      "image_bbox": [
+        1965,
+        665,
+        2115,
+        2560
+      ],
+      "context": [
+        "欲窮其本妄",
+        "欲學其本如"
+      ],
+      "reason": "欄末「窮」位是上收的臼形與下方子形，「如」左女右口。"
+    },
+    {
+      "unit": "009-R-C09",
+      "frame": 9,
+      "side": "009-R",
+      "offset_start": 15,
+      "offset_end": 16,
+      "before": "若",
+      "after": "者",
+      "image_sha256": "175c3ac00363d5e6856f304eaffceb6c5a464a5ea4b3035e7b224d8bd44a32d2",
+      "image_bbox": [
+        2352,
+        665,
+        2502,
+        2560
+      ],
+      "context": [
+        "物常若不",
+        "物常者不"
+      ],
+      "reason": "「常」後一字有斜掠長撇和下方日形，並非艹頭。"
+    },
+    {
+      "unit": "009-L-C03",
+      "frame": 9,
+      "side": "009-L",
+      "offset_start": 0,
+      "offset_end": 1,
+      "before": "固",
+      "after": "同",
+      "image_sha256": "175c3ac00363d5e6856f304eaffceb6c5a464a5ea4b3035e7b224d8bd44a32d2",
+      "image_bbox": [
+        1683,
+        665,
+        1833,
+        2560
+      ],
+      "context": [
+        "固其失必同焉",
+        "同其失則同矣"
+      ],
+      "reason": "上首與第五字同本欄同形；第四字右掛竪、左形貝，末字上厶與下矢形分開。"
+    },
+    {
+      "unit": "010-R-C01",
+      "frame": 10,
+      "side": "010-R",
+      "offset_start": 8,
+      "offset_end": 9,
+      "before": "遠",
+      "after": "虛",
+      "image_sha256": "e2c94ee4c731eae0b32f0ccd1ad7beb62b59750c7490c9fba078fe64f8b60130",
+      "image_bbox": [
+        3527,
+        665,
+        3677,
+        2560
+      ],
+      "context": [
+        "遠哉",
+        "虛哉"
+      ],
+      "reason": "「哉」上字上有虍形斜鉤、下橫，無辶。"
+    },
+    {
+      "unit": "010-R-C06",
+      "frame": 10,
+      "side": "010-R",
+      "offset_start": 21,
+      "offset_end": 22,
+      "before": "裏",
+      "after": "藥",
+      "image_sha256": "e2c94ee4c731eae0b32f0ccd1ad7beb62b59750c7490c9fba078fe64f8b60130",
+      "image_bbox": [
+        2793,
+        665,
+        2943,
+        2560
+      ],
+      "context": [
+        "譬暗裏",
+        "實暁藥"
+      ],
+      "reason": "欄末相鄰三字依序可見宀貫、日旁與堯形、艸旁與樂形的殘筆；同幅 R05 中下「藥」形可比較。"
+    },
+    {
+      "unit": "010-R-C06",
+      "frame": 10,
+      "side": "010-R",
+      "offset_start": 19,
+      "offset_end": 20,
+      "before": "譬",
+      "after": "實",
+      "image_sha256": "e2c94ee4c731eae0b32f0ccd1ad7beb62b59750c7490c9fba078fe64f8b60130",
+      "image_bbox": [
+        2793,
+        665,
+        2943,
+        2560
+      ],
+      "context": [
+        "譬暗裏",
+        "實暁藥"
+      ],
+      "reason": "欄末相鄰三字依序可見宀貫、日旁與堯形、艸旁與樂形的殘筆；同幅 R05 中下「藥」形可比較。"
+    },
+    {
+      "unit": "010-R-C09",
+      "frame": 10,
+      "side": "010-R",
+      "offset_start": 21,
+      "offset_end": 22,
+      "before": "液",
+      "after": "凝",
+      "image_sha256": "e2c94ee4c731eae0b32f0ccd1ad7beb62b59750c7490c9fba078fe64f8b60130",
+      "image_bbox": [
+        2352,
+        665,
+        2502,
+        2560
+      ],
+      "context": [
+        "天之液",
+        "天之凝"
+      ],
+      "reason": "「之」後一字左二點，右部長筆與下收足，無夜形。"
+    },
+    {
+      "unit": "011-L-C07",
+      "frame": 11,
+      "side": "011-L",
+      "offset_start": 19,
+      "offset_end": 20,
+      "before": "至",
+      "after": "書",
+      "image_sha256": "bf684fa772123b07964561d36d37f7700895a6029f5f2cc7d8216677e3a266b3",
+      "image_bbox": [
+        1096,
+        665,
+        1246,
+        2560
+      ],
+      "context": [
+        "此至班",
+        "此書班"
+      ],
+      "reason": "「此」下一字上有穿過多橫的長豎、下有曰形封口。"
+    },
+    {
+      "unit": "011-L-C09",
+      "frame": 11,
+      "side": "011-L",
+      "offset_start": 7,
+      "offset_end": 8,
+      "before": "必",
+      "after": "决",
+      "image_sha256": "bf684fa772123b07964561d36d37f7700895a6029f5f2cc7d8216677e3a266b3",
+      "image_bbox": [
+        802,
+        665,
+        952,
+        2560
+      ],
+      "context": [
+        "必無兩",
+        "决無兩"
+      ],
+      "reason": "「無」上字左有水點筆，右部撇捺及夬形，相鄰兩字完整。"
+    },
+    {
+      "unit": "012-R-C01",
+      "frame": 12,
+      "side": "012-R",
+      "offset_start": 13,
+      "offset_end": 14,
+      "before": "擬",
+      "after": "撰",
+      "image_sha256": "a347e8bedd38a07597a64bcd1ea1977c32035ecab57280a793aa874562b4c774",
+      "image_bbox": [
+        3550,
+        665,
+        3700,
+        2560
+      ],
+      "context": [
+        "因名擬偽",
+        "因名撰偽"
+      ],
+      "reason": "「名」下字左為扌，右上兩併列回鉤，下有共形分筆。"
+    },
+    {
+      "unit": "012-R-C02",
+      "frame": 12,
+      "side": "012-R",
+      "offset_start": 13,
+      "offset_end": 14,
+      "before": "耶",
+      "after": "邪",
+      "image_sha256": "a347e8bedd38a07597a64bcd1ea1977c32035ecab57280a793aa874562b4c774",
+      "image_bbox": [
+        3403,
+        665,
+        3553,
+        2560
+      ],
+      "context": [
+        "文耶",
+        "文邪"
+      ],
+      "reason": "末字右耳旁可辨，左下斜長，形為牙旁；貫紙蟲道從左越過，右部未遮。"
+    }
+  ],
+  "unresolved": [
+    "題頭小字保留「凡／原？三十則」。正文共 33 欄以一形開頭，其中 004-R-C09「一於生也」及 004-L-C04「一擁遏」在一般正文起寫高度承接前欄，初稿已另列 31 個有分段樣式的一形，與題頭數目仍有歧異。",
+    {
+      "unit": "007-R-C05",
+      "frame": 7,
+      "side": "007-R",
+      "offset_start": 21,
+      "offset_end": 22,
+      "before": "素",
+      "candidate": "未",
+      "image_sha256": "9e7e025f558150cbd88b9b5499b62cd4ba4668a6fef56cf605a7acf58db6cfa5",
+      "image_bbox": [
+        2939,
+        665,
+        3089,
+        2560
+      ],
+      "reason": "欄底墨跡下半破失，上部疊橫不足以區分「素／未」。"
+    },
+    {
+      "unit": "007-R-C05",
+      "frame": 7,
+      "side": "007-R",
+      "offset_start": 13,
+      "offset_end": 14,
+      "before": "嗟",
+      "candidate": "唯",
+      "image_sha256": "9e7e025f558150cbd88b9b5499b62cd4ba4668a6fef56cf605a7acf58db6cfa5",
+      "image_bbox": [
+        2939,
+        665,
+        3089,
+        2560
+      ],
+      "reason": "口旁後部與朱筆、破邊交疊，保留「嗟／唯」待核。"
+    },
+    {
+      "unit": "007-R-C09",
+      "frame": 7,
+      "side": "007-R",
+      "offset_start": 12,
+      "offset_end": 13,
+      "before": "置",
+      "candidate": "還",
+      "image_sha256": "9e7e025f558150cbd88b9b5499b62cd4ba4668a6fef56cf605a7acf58db6cfa5",
+      "image_bbox": [
+        2352,
+        665,
+        2502,
+        2560
+      ],
+      "reason": "字上冠下見多條平橫，走之與衣底未能辨定，保留「置／還」待核。"
+    },
+    {
+      "unit": "009-R-C07",
+      "frame": 9,
+      "side": "009-R",
+      "offset_start": 15,
+      "offset_end": 16,
+      "before": "無",
+      "candidate": "每",
+      "image_sha256": "175c3ac00363d5e6856f304eaffceb6c5a464a5ea4b3035e7b224d8bd44a32d2",
+      "image_bbox": [
+        2646,
+        665,
+        2796,
+        2560
+      ],
+      "reason": "可見下方橫抹與點筆，與獨立原讀「每」仍有歧異。"
+    },
+    {
+      "unit": "009-L-C02",
+      "frame": 9,
+      "side": "009-L",
+      "offset_start": 1,
+      "offset_end": 2,
+      "before": "專",
+      "candidate": "亨",
+      "image_sha256": "175c3ac00363d5e6856f304eaffceb6c5a464a5ea4b3035e7b224d8bd44a32d2",
+      "image_bbox": [
+        1830,
+        665,
+        1980,
+        2560
+      ],
+      "reason": "右側有蟲痕，中段筆畫多，亨與專的框底尚未識別。"
+    },
+    {
+      "unit": "009-L-C03",
+      "frame": 9,
+      "side": "009-L",
+      "offset_start": 5,
+      "offset_end": 6,
+      "before": "焉",
+      "candidate": "矣",
+      "image_sha256": "175c3ac00363d5e6856f304eaffceb6c5a464a5ea4b3035e7b224d8bd44a32d2",
+      "image_bbox": [
+        1683,
+        665,
+        1833,
+        2560
+      ],
+      "reason": "欄尾草寫，上下部連筆，焉與矣仍待定。"
+    },
+    {
+      "unit": "009-L-C03",
+      "frame": 9,
+      "side": "009-L",
+      "offset_start": 3,
+      "offset_end": 4,
+      "before": "必",
+      "candidate": "則",
+      "image_sha256": "175c3ac00363d5e6856f304eaffceb6c5a464a5ea4b3035e7b224d8bd44a32d2",
+      "image_bbox": [
+        1683,
+        665,
+        1833,
+        2560
+      ],
+      "reason": "多筆交疊，未見可確認的貝旁，保留候選。"
+    },
+    {
+      "unit": "009-L-C07",
+      "frame": 9,
+      "side": "009-L",
+      "offset_start": 2,
+      "offset_end": 3,
+      "before": "梅",
+      "candidate": "按",
+      "image_sha256": "175c3ac00363d5e6856f304eaffceb6c5a464a5ea4b3035e7b224d8bd44a32d2",
+      "image_bbox": [
+        1096,
+        665,
+        1246,
+        2560
+      ],
+      "reason": "字中有穿連與點筆，梅與按的部件未可定讀。"
+    },
+    {
+      "unit": "010-R-C05",
+      "frame": 10,
+      "side": "010-R",
+      "offset_start": 8,
+      "offset_end": 9,
+      "before": "耿",
+      "candidate": "取",
+      "image_sha256": "e2c94ee4c731eae0b32f0ccd1ad7beb62b59750c7490c9fba078fe64f8b60130",
+      "image_bbox": [
+        2939,
+        665,
+        3089,
+        2560
+      ],
+      "reason": "右部小短筆可辨，收筆及構件仍不足分耿、取。"
+    },
+    {
+      "unit": "010-R-C06",
+      "frame": 10,
+      "side": "010-R",
+      "offset_start": 20,
+      "offset_end": 21,
+      "before": "暗",
+      "candidate": "暁",
+      "image_sha256": "e2c94ee4c731eae0b32f0ccd1ad7beb62b59750c7490c9fba078fe64f8b60130",
+      "image_bbox": [
+        2793,
+        665,
+        2943,
+        2560
+      ],
+      "reason": "紙損附近日旁後部交疊，暁與暗候選留存。"
+    }
+  ],
+  "review_counts": {
+    "frames": 14,
+    "surfaces": 25,
+    "units": 202,
+    "confirmed_context_changes": 26,
+    "confirmed_changed_units": 24,
+    "confirmed_codepoint_substitutions": 32,
+    "initial_candidate_or_gap_spans_retained": 126,
+    "main_columns_starting_with_one_shape": 33,
+    "initial_columns_marked_as_possible_article_starts": 31,
+    "inventory": {
+      "ruled_grid_columns": 180,
+      "ruled_blank_columns": 25,
+      "citation_grid_columns": 2,
+      "capture-id": 1,
+      "title": 1,
+      "shelf-label": 1,
+      "accession-tab": 1,
+      "library-label": 1,
+      "title-head": 1,
+      "main": 152,
+      "collection-stamp": 1,
+      "interlinear": 10,
+      "fold-margin-print": 20,
+      "marginal-note": 9,
+      "marginal-note-red": 1,
+      "source-citation": 2,
+      "cover-mark": 1
+    },
+    "unit_status": {
+      "differences-retained-for-review": 118,
+      "readings-agree": 46,
+      "confirmed-correction": 24,
+      "initial-uncertainty-retained": 11,
+      "mark-initial-only-undeciphered": 1,
+      "agrees-with-citation-layer-note": 1,
+      "citation-layer-note-and-text-candidates": 1
+    },
+    "release_codepoint_changes": 22,
+    "deferred_codepoint_changes": 10
+  }
+}

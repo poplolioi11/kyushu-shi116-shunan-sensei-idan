@@ -3,7 +3,7 @@
   "image_viewer": "https://kokusho.nijl.ac.jp/biblio/100347929/manifest",
   "source_rights": "https://creativecommons.org/publicdomain/mark/1.0/deed.ja",
   "shelfmark": "九州大學醫學圖書館 和漢古醫書 シ-116（NIJL 100347929）",
-  "data_version": "0.1.0",
+  "data_version": "0.2.0",
   "image_inventory": [
     {
       "image": 1,

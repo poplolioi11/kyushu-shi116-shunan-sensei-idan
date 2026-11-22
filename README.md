@@ -12,9 +12,9 @@ The 14 scans identify 25 surfaces, including 18 written body faces with 152 main
 
 ## 文字與覆核 / Text and review
 
-AI 輔助初錄。保留原件缺損、疑讀及全冊影像定位。未做人類全文雙校、專家審定、同儕審查或準確率量測。格內題頭與正文、朱墨眉批、欄旁小字及版心分層。卷首小字及分則數見疑讀。紙損、朱墨筆記與候選可回查同幅。
+逐幅回圖，比對獨立讀稿及原初錄，採用 22 項回圖訂正。疑讀、藏印或細小批注按實際可辨範圍保留。未做人類全文雙校、專家審定、同儕審查或準確率量測。格內題頭與正文、朱墨眉批、欄旁小字及版心分層。卷首小字及分則數見疑讀。紙損、朱墨筆記與候選可回查同幅。
 
-AI-assisted initial transcription with source references and marked uncertainties. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed. Body, headings, marginal writing and smaller annotations are identified separately. Damage, doubtful readings and uncertainty in the internal enumeration are recorded.
+Source-image review compared independent observations with the initial transcription and records 22 image-supported changes. Uncertain readings remain marked. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed. Body, headings, marginal writing and smaller annotations are identified separately. Damage, doubtful readings and uncertainty in the internal enumeration are recorded.
 
 TXT 依幅、面與欄提供閱讀定位。JSON 和 TEI 採同一固定取文。「□」標難辨字，缺幅或不確定缺字處由頁面說明及疑義資料標示。完整提示、私有覆核過程與專用程式未隨附。AI 實際模型路由與用量未知。
 
